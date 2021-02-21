@@ -32,4 +32,6 @@ No diretório "controller" contém arquivos php que exercem a funcionalidade
 
 No diretório "model" contém os arquivos de conexão ao banco de dados
 
+Não esquecer de inserir CREATE TABLE doacao
+
 O arquivo script.sql é o dump solicitado no teste.
