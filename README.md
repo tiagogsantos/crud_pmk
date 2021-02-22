@@ -23,7 +23,7 @@ Crud em MVC e PHP -
 
 1.  init.php são os arquivos de configurações do sistema de doação
 2.  diretório "view" é onde fica todas as telas do sistema
-3.  diretório "controller" é onde fica fica as funcionalidades do sistema que interragem com o banco de dados
+3.  diretório "controller" é onde fica as funcionalidades do sistema que interagem com o banco de dados
 4.  diretório "model" é onde fica os arquivos de conexão com o banco de dados
 
 No diretório "view" existem 3 páginas principais: editar.php, cadastro.php e index.php, em seguida tem o menu.php e a head com as chamadas de arquivos como CSS/JS.
